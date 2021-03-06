@@ -49,18 +49,18 @@ TABLE OF CONTENTS
 --------------------------------------------------------------*/
 @font-face {
   font-family: "HK-Grotesk";
-  src: url("css/fonts/hk-grotesk/HKGrotesk-Regular.eot");
+  src: url("fonts/hk-grotesk/HKGrotesk-Regular.eot");
   /* IE9 Compat Modes */
-  src: url("css/fonts/hk-grotesk/HKGrotesk-Regular.eot?#iefix")
+  src: url("fonts/hk-grotesk/HKGrotesk-Regular.eot?#iefix")
       format("embedded-opentype"),
-    /* IE6-IE8 */ url("css/fonts/hk-grotesk/HKGrotesk-Regular.woff2")
+    /* IE6-IE8 */ url("fonts/hk-grotesk/HKGrotesk-Regular.woff2")
       format("woff2"),
     /* Super Modern Browsers */
-      url("css/fonts/hk-grotesk/HKGrotesk-Regular.woff") format("woff"),
+      url("fonts/hk-grotesk/HKGrotesk-Regular.woff") format("woff"),
     /* Pretty Modern Browsers */
-      url("css/fonts/hk-grotesk/HKGrotesk-Regular.ttf") format("truetype"),
+      url("fonts/hk-grotesk/HKGrotesk-Regular.ttf") format("truetype"),
     /* Safari, Android, iOS */
-      url("css/fonts/hk-grotesk/HKGrotesk-Regular.svg#svgFontName")
+      url("fonts/hk-grotesk/HKGrotesk-Regular.svg#svgFontName")
       format("svg");
   /* Legacy iOS */
   font-weight: 400;
